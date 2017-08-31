@@ -1,0 +1,37 @@
+#DEBUG_HTML 1.1 - Intro to debugging common HTML errors
+#DEBUG_HTML 1.2 - Common errors
+#DEBUG_HTML 1.3 - HTML Validator
+#DEBUG_HTML 1.4 - Outro to debugging common HTML errors
+
+
+
+#DEBUG_HTML 1.1 - Intro to debugging common HTML errors
+Hey Chris from Codify Academy here, in this video I want to cover the most common mistakes I make in HTML, and how you can avoid doing them.
+
+#DEBUG_HTML 1.2 - Common errors
+Common Error #1 Missing the doctype in your HTML, without it a browser will just display plain text, lucky for us we have this in our template so its ok.
+Common Error #2 Missing the html, head or body tags in your document, and one more time we have this in our template so we don't need to worry about it.
+Common Error #3 Missing the character encoding, again we have this in our template. so it should be an issue
+
+Common Error #4 Having an extra end tag when there shouldn't be one or forgetting the end tag of an element.  Just remember normally an element has a start and an end tag.  You can always use the shortcut to build the element using Atom.
+Common Error #5 Forgetting the slash in a closing element, this error can be avoided by using Atom to make your elements for you.
+Common Error #6 Not adding an attribute to a start tag, this one I figured out pretty quick, but remember attributes will only be added to a start tag, never on an end tag.
+Common Error #7 Incorrectly adding additional attributes to elements - sometimes you will add more than 1 attribute to an element, just add a space inside of the start tag and then you can add the attribute, there is no limit to these.
+
+When I was learning to code, I didn't know of a thing called a template So i made these mistakes a bunch.
+
+As I progressed and learned more about shortcuts I realized I could use my text editor to avoid a lot of these mistakes. I encourage you to try and recognize the color patterns in your text editor, often times as you code you can notice a different pattern happening and it gives me a good starting point of my error, which is usually syntax  or spelling.
+
+Look at mine, tags are red, syntax and content are white, attributes are orange and their values in quotes are green.
+If something looks different then that I know something is incorrect around that area.
+
+
+
+#DEBUG_HTML 1.3 - HTML Validator
+We can also use the HTML validator to see if we have any errors, I always use the direct input method.
+
+just use control or command c to copy and v to paste your code.
+
+
+#DEBUG_HTML 1.4 - Outro to debugging common HTML errors
+overtime you will learn to spot errors by the color pattern in your text editor!
